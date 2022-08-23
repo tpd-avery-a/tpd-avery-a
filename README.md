@@ -1,7 +1,15 @@
-- 👋 Hi, I’m @tpd-avery-a
+- 👋 Hi, I’m @tpd-avery-a or axa_axa. I'm a security researcher and Systems Engineer with a passion for software development, building custom servers and security.
+
+- I track my time here https://wakatime.com/dashboard?start=2022-08-09&end=2022-08-22
+
+- I do not post often here. My main work is displayed on my website https://toppeaksdevelopment.com
+
 - 👀 I’m interested in Cybersecurity, Network Engineer, Space
+
 - 🌱 I’m currently learning Web Development and System Administration
+
 - 💞️ I’m looking to collaborate on think groups
+
 - 📫 How to reach me nametitle@icloud.com
 
 <!---
