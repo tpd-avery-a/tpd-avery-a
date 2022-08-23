@@ -4,7 +4,7 @@
 
 - I do not post often here. My main work is displayed on my website https://toppeaksdevelopment.com
 
-- 👀 I’m interested in Cybersecurity, Network Engineer, Space
+- 👀 I’m interested in Cybersecurity, Network Engineering, Defeating and Defending against webscrapping, and Space
 
 - 🌱 I’m currently learning Web Development and System Administration
 
